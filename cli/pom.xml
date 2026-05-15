@@ -80,7 +80,7 @@
       <artifactId>jline-native</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.fusesource.jansi</groupId>
+      <groupId>org.jline</groupId>
       <artifactId>jansi</artifactId>
     </dependency>
     <!-- Test dependencies -->
